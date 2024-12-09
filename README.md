@@ -105,4 +105,17 @@ We would like to express our gratitude to the **Open University** for providing 
 - [Yasmin Saniya Tabassum's GitHub](https://github.com/Saniyaaahh)  
 - [Mohammed Huzaifa's GitHub](https://github.com/MohammedHuzaifa786)
 
+# 🎉 Contributors
+Thanks to all our contributors! ❤️
+
+<a href="https://github.com/syedmiran-38">
+  <img src="https://avatars.githubusercontent.com/syedmiran-38" alt="Syed Miran Hussain" width="100" height="100" style="border-radius:50%;">
+</a>
+<a href="https://github.com/Saniyaaahh">
+  <img src="https://avatars.githubusercontent.com/Saniyaaahh" alt="Yasmin Saniya Tabassum" width="100" height="100" style="border-radius:50%;">
+</a>
+<a href="https://github.com/MohammedHuzaifa786">
+  <img src="https://avatars.githubusercontent.com/MohammedHuzaifa786" alt="Mohammed Huzaifa" width="100" height="100" style="border-radius:50%;">
+</a>
+
 
