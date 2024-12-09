@@ -117,5 +117,3 @@ Thanks to all our contributors! ❤️
 <a href="https://github.com/MohammedHuzaifa786">
   <img src="https://avatars.githubusercontent.com/MohammedHuzaifa786" alt="Mohammed Huzaifa" width="100" height="100" style="border-radius:50%;">
 </a>
-
-
